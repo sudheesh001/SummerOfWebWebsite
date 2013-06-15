@@ -1,0 +1,1 @@
+This project has been created as learning purpose for the Mozilla Summer of Web 2013 initiative by Mozilla Club Warangal.
